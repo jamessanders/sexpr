@@ -14,8 +14,9 @@
 
 (map sqr (range 0 100))
 
-(if (exist? x)
-  (print "x is defined")
-  (print "x is not defined"))
+;; (if (exist? x)
+;;   (print "x is defined")
+;;   (print "x is not defined"))
 
+(test)
 
